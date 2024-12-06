@@ -6,4 +6,4 @@ var sun = new Planet(200, 250, 100000, 30, "#f5df36");
 var planet1 = new Planet(50, 250, 100, 5, "#f57d27");
 var planet2 = new Planet(100, 100, 500, 8, "#ab591f");
 var planet3 = new Planet(300, 150, 1000, 12, "#0e77cc");
-var moon = new Planet(320, 150, 10, 2, "#b8b8b8");
+
